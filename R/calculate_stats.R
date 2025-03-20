@@ -11,6 +11,7 @@
 #'          (default is TRUE). If FALSE, errors may occur (e.g., mean(c(NA)) is NA).
 #'
 #' @return Returns an object of class `StatsSummary`, which is a list containing:
+#'
 #'          - mean: Mean of x.
 #'          - Q1: First quartile (25th percentile) of x.
 #'.         - median: Median of x.
