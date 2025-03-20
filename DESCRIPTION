@@ -1,0 +1,18 @@
+Package: StatsPackage
+Type: Package
+Title: Statistical and Data Visualization Tools
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Michał", "Klimek",
+      email = "michal.klimek@icloud.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: 
+	This package provides functions for statistical analysis and data visualization using plotly. It includes functions for basic summary statistics, comparing means of two samples using t-test and interactive plots, and dataset handling.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: plotly
+RoxygenNote: 7.2.3
